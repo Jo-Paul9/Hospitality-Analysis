@@ -36,7 +36,7 @@ The goal of this project is to:
 This project reflects a growing curiosity about the hospitality industry and a strong desire to help hotels make smarter, more confident decisions using data. With the right insight, any hotel—big or small—can uncover hidden opportunities and improve guest experience while maximizing revenue.
 
 
-Glossary of terms:
+# Glossary of terms:
 
 ADR - Average Daily Rate
 RevPAR - Revenue Per Available Room
@@ -44,7 +44,7 @@ DBRN - Daily Booked Room Nights
 DSRN - Daily Sellable Room Nights
 DURN - Daily Utilized Room Nights
 
-Executive Summary:
+# Executive Summary:
 
 The hotel portfolio demonstrates strong demand volumes (135K bookings, 274K guests) but faces critical inefficiencies in revenue optimization, channel profitability, and occupancy consistency.
 Revenue is heavily dependent on “others” platforms and Premium/Elite rooms and shows fluctuations driven by weekdays/weekends.
@@ -54,7 +54,7 @@ Overall, the operation is growing, but profitability is constrained by channel i
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/6237f6e2-7435-4b17-b801-62782c252972" />
 
 
-Revenue Drivers: 
+# Revenue Drivers: 
 
 - Elite ($560M) & Premium ($462M) Rooms dominate revenue.
 - Luxury & Business categories split revenue at 38.4% vs 61.6%, meaning business travelers are the primary revenue engine.
@@ -65,18 +65,18 @@ Revenue Drivers:
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/5aaf55ea-47e7-4c9f-a84f-0c7890fe94c8" />
 
 
-Risk Assessment:
+# Risk Assessment:
 
 - Over-reliance on a single segment (“others”) is dangerous. Over 40% of revenue comes from a non-transparent bucket.
 - Direct channels (online + offline) together produce $255M, which is only 23% of total platform revenue, showing weak brand pull. Hence, increasing direct bookings can improve margin by eliminating commission losses.
 
-Key Strengths:
+# Key Strengths:
 
 - Elite & Premium dominate revenues.
 - Business category contributes 61.6% → indicates strong loyalty & pricing resilience.
 - ADR around $12.7K consistently, Realization at 70% is healthy.
 
-Key Weakness & Risks:
+# Key Weakness & Risks:
 
 - High Cancellation & No-Show Rates: Showing over 30% of booking loss rate - massive revenue leakage.
 - Overdependence on “others” contributing ~$700M. Direct channel revenue is extremely weak
@@ -86,7 +86,7 @@ Key Weakness & Risks:
 
 
 
-Strategic Recommendations:
+# Strategic Recommendations:
 
 - Launch loyalty app & website promo rates
 - Offer perks only in direct channels (free breakfast, free cancellations)
